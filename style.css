@@ -1,0 +1,65 @@
+body{
+    background-image: url("e.jpg");
+    background-color: black;
+    color: whitesmoke;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.gifspeed{
+    float: left;
+}
+
+.gifspeed1{
+    float: right;
+}
+
+#gif{
+    width: 300px;
+}
+
+#play{
+    background-color:black ;
+    border-width:2px;
+    border-color: #C60E0E;
+    color: whitesmoke;
+    border-style:solid ;
+    position: fixed;
+    left: 589px;
+}
+
+#stop{
+    background-color:black ;
+    border-width:2px;
+    border-color: #C60E0E;
+    color: whitesmoke;
+    border-style:solid ;
+    position: fixed;
+    left: 800px;
+}
+
+#bg{
+    border-radius: 10000px;
+}
+
+canvas{
+    border-color: #C60E0E;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 300px;
+}
+
+footer{
+    background-image: url("w.gif");
+    font-family: 'Pacifico', cursive;
+    position: fixed;
+    bottom: 0px;
+    background-size:cover;
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
